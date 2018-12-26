@@ -1,0 +1,11 @@
+Band,Rating,Plays
+# These are some bands in a playlist.
+# Feel free to add your own!
+Metallica,7,512
+The Black Keys,8,193
+Amy MacDonald,5,290
+The Killers,9,402
+U2,9,789
+Portishead,6,116
+Rob Dougan,6,184
+Coldplay,7,0
